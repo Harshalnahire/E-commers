@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "A backend service for e-commers applicatio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshalnahire/E-commers.git"
+  },
+  "author": "Harshal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harshalnahire/E-commers/issues"
+  },
+  "homepage": "https://github.com/Harshalnahire/E-commers#readme"
+}
