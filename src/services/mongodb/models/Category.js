@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import Product from "./Product";
 
 const CategorySchema = new mongoose.Schema({
     name :{
@@ -17,4 +18,5 @@ const CategorySchema = new mongoose.Schema({
 })
 
 export const Category = new mongoose.model("Category",CategorySchema)
+export default Category;
  
